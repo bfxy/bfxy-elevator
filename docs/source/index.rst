@@ -3,20 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Elevator User Guide's documentation!
-===============================================
+A pseudo user guide for a basic elevator
+========================================
 
-Contents:
+
+What the hell is this?
+----------------------
+
+This is a work sample of a user guide that I did for a job interview at Kaspersky Lab in Moscow.  
+
+The task was to
+
 
 .. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :caption: Table of Contents
+   :maxdepth: 3
+   
+   general_info
+   using_the_elevator
+   possible_problems
+   conclusion	
+   license
+   help
 

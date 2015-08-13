@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Elevator'
+project = u'Elevator User Guide'
 copyright = u'2015, Vitali Lobanov'
 author = u'Vitali Lobanov'
 
