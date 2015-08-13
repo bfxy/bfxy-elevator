@@ -3,16 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 A pseudo user guide for a basic elevator
-========================================
+########################################
 
 
-What the hell is this?
+What is this?
 ----------------------
 
-This is a work sample of a user guide that I did for a job interview at Kaspersky Lab in Moscow.  
+This is a work sample of a user guide that I did for a job interview at Kaspersky Lab in Moscow. 
 
-The task was to
+The task was to write a simple and friendly user manual for a standard human-carrying elevator as if it was just invented and no one knows how to use it.
+
+Why is this here?
+-----------------
+
+I wanted to try out Sphinx and this seemed to be a good excersice, and also I like what I've done and wish to share it just for lolz or whatever you may find it useful for.
+
+Enjoy.
 
 
 .. toctree::

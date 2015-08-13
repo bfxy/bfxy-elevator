@@ -15,8 +15,8 @@ The rules of using an elevator are simple and do not require memorization as mos
 +--------------------------------------------------+-------------------------------------------------+
 | | **DO**                                         | | **WHY**                                       |
 +=======================================+==========+=================================================+ 
-| Let out the exiting passengers before            | | Basic human decency                           |
-| entering                                         |                                                 |
+| | Let out the exiting passengers before          | | Basic human decency                           |
+| | entering                                       |                                                 |
 +--------------------------------------------------+-------------------------------------------------+
 | | Enter first and exit last when traveling with  | | The child may be in danger if left alone      |
 | | a child                                        | | inside the elevator                           |
@@ -36,32 +36,36 @@ The rules of using an elevator are simple and do not require memorization as mos
 .. NOTE:: 
    **The elevator is a smoking-free area**
 
-      
-
 +--------------------------------------------------+-------------------------------------------------+
-| **DO NOT**                                       | **WHY**                                         |
+| | **DO NOT**                                     | | **WHY**                                       |
 +==================================================+=================================================+
-| Use the elevator if it looks or sounds faulty    | You may be correct. Call the operator for       |
-|                                                  | the inspection and use another elevator or the  |
-|                                                  | stairs                                          |
+|| Use the elevator if it looks or sounds faulty   | | You may be correct. Call the operator for the |
+|                                                  | | inspection and use another elevator or the    |
+|                                                  | | stairs                                        |
++--------------------------------------------------+-------------------------------------------------+
+| | Hold the doors open with your body parts       | | Stay away from the gap between doors as this  |
+|                                                  | | this is a danger zone. There is a special     |
+|                                                  | | button on control panel to hold the doors open|
++--------------------------------------------------+-------------------------------------------------+
+| | Try to open doors while traveling              || The emergency mechanism will block the elevator|
+|                                                  || and it will stuck                              |
++--------------------------------------------------+-------------------------------------------------+
+| | Smoke or set fire inside                       || The sensors will trigger the fire alarm        |
++--------------------------------------------------+-------------------------------------------------+
+| | Randomly hit buttons on the control panel      || This may damage the electronics and lead to a  |
+|                                                  || breakdown                                      |
++--------------------------------------------------+-------------------------------------------------+
+| | Jump or lift yourself up inside                || The weight sensor will fail to detect your     |
+|                                                  || inside and will stop the elevator              |
++--------------------------------------------------+-------------------------------------------------+
+|| Express frustration and outrage by hitting walls|| Any damage done to the elevator may result in  |
+|| and doors                                       || arrest and legal proceeding. Also, the sensors |
+|                                                  || may trigger the earthquake alarm               |
 +--------------------------------------------------+-------------------------------------------------+
 
+.. NOTE:: 
+   Travel carefully under the influence of alcohol or other substances as the elevator may fly into space and never come back. Jokes aside, be responsible and seek for assistance if you feel you may need any.
 
-Use the elevator if it looks or sounds faulty.
-You may be correct. Call the operator for the inspection and use another elevator or the stairs.
-Hold the doors open with your body parts.
-Stay away from the gap between doors as this is a danger zone. There is a special button on control panel to hold the doors.
-Try to open doors while moving.
-The emergency mechanism will block the elevator and it will stuck.
-Smoke or set fire inside.
-The sensors will trigger the fire alarm.
-Randomly hit buttons on the control panel.
-This may damage the electronics and lead to a breakdown.
-Jump or lift yourself up inside.
-The weight sensor will fail to detect your presence inside and stop the elevator.
-Express frustration and outrage by hitting walls and doors.
-Any damage done to the elevator may result in arrest and legal proceeding. Also, the sensors may trigger the earthquake alarm. 
-Also travel carefully under influence of alcohol or other substances as the elevator may fly into space and never return back. Jokes aside, be responsible and seek for assistance if you feel you may need any. 
 
 Operation
 ---------
