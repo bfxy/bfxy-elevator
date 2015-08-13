@@ -12,15 +12,14 @@ Do’s and don’ts
 
 The rules of using an elevator are simple and do not require memorization as most of them will be followed intuitively. However, pay attention to them for once and especially do not overlook those applied if you are accompanied by a child or a baby.
 
-
 +--------------------------------------------------+-------------------------------------------------+
 | | **DO**                                         | | **WHY**                                       |
 +=======================================+==========+=================================================+ 
-| | Let out the exiting passengers before entering | | Basic human decency                           |
-|                                                  |                                                 |	
+| Let out the exiting passengers before            | | Basic human decency                           |
+| entering                                         |                                                 |
 +--------------------------------------------------+-------------------------------------------------+
 | | Enter first and exit last when traveling with  | | The child may be in danger if left alone      |
-| | a child                                        | | inside the elevator                           | 
+| | a child                                        | | inside the elevator                           |
 +--------------------------------------------------+-------------------------------------------------+
 | | Pick up the baby when traveling with a baby    | | The baby may be in danger if left in a        |
 | | stroller                                       | | stroller                                      |
@@ -37,9 +36,17 @@ The rules of using an elevator are simple and do not require memorization as mos
 .. NOTE:: 
    **The elevator is a smoking-free area**
 
+      
 
-DO NOT
-WHY
++--------------------------------------------------+-------------------------------------------------+
+| **DO NOT**                                       | **WHY**                                         |
++==================================================+=================================================+
+| Use the elevator if it looks or sounds faulty    | You may be correct. Call the operator for       |
+|                                                  | the inspection and use another elevator or the  |
+|                                                  | stairs                                          |
++--------------------------------------------------+-------------------------------------------------+
+
+
 Use the elevator if it looks or sounds faulty.
 You may be correct. Call the operator for the inspection and use another elevator or the stairs.
 Hold the doors open with your body parts.
