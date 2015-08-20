@@ -1,7 +1,7 @@
 Using the elevator
 ==================
 
-Using the elevator is as straightforward and inherent as doing any other everyday routine. You only have to know you destination story, and to be a little patient for an elevator to arrive on busy days.
+Using the elevator is as straightforward and inherent as doing any other everyday routine. You only have to know you destination story, and to be a little patient for the elevator to arrive on busy days.
 
 General safety
 --------------
@@ -10,7 +10,7 @@ As much as a great joy to experience, the elevator is not a place to play. That 
 Do’s and don’ts
 ---------------
 
-The rules of using an elevator are simple and do not require memorization as most of them will be followed intuitively. However, pay attention to them for once and especially do not overlook those applied if you are accompanied by a child or a baby.
+The rules of using the elevator are simple and do not require memorization as most of them will be followed intuitively. However, pay attention to them for once and especially do not overlook those applied if you are accompanied by a child or a baby.
 
 +--------------------------------------------------+-------------------------------------------------+
 | | **DO**                                         | | **WHY**                                       |
@@ -64,7 +64,7 @@ The rules of using an elevator are simple and do not require memorization as mos
 +--------------------------------------------------+-------------------------------------------------+
 
 .. NOTE:: 
-   Travel carefully under the influence of alcohol or other substances as the elevator may fly into space and never come back. Jokes aside, be responsible and seek for assistance if you feel you may need any.
+   Travel carefully under the influence of alcohol or other substances, as the elevator may fly into space and never come back. Jokes aside, be responsible and seek for assistance if you feel you may need any.
 
 
 Operation
@@ -73,16 +73,16 @@ Operation
 Call
 ^^^^
 
-Stand in front of the elevator doors. The display will indicate the story, which the elevator is currently at or passing by.
+Stand in front of the elevator doors. The display will indicate the story, where the elevator currently is or passes by.
 
-Press the Call button. The button will light up, which means that you have called the elevator. Be patient as sometimes the elevator will stop on another story to pick up other passengers on its way.
+To call the elevator, press the ``Call`` button. The button will light up, which means that you have called the elevator. Be patient as sometimes the elevator will stop on another story to pick up other passengers on its way.
 
-When the elevator arrives, you should hear a bell or some other sound of that kind. The doors will open and you will be welcome on board.
+When the elevator arrives, you should hear a bell or a similar sound. The doors will open and you will be welcome on board.
 
 Travel
 ^^^^^^
 
-When the doors are open, first let out the exiting passengers if there are any. Do not rush in — the sensors between the doors will make sure you have enough time to board. However, do not hesitate to enter the elevator either. Wait for too long and the doors will shut anyway. In this case you have to press the Call button again to open the doors.
+When the doors are open, first let out the exiting passengers if there are any. Do not rush in — the sensors between the doors will make sure you have enough time to board. However, do not hesitate to enter the elevator either. Wait for too long and the doors will shut anyway. In this case you have to press the ``Call`` button again to open the doors.
 
 Once inside you will see a control panel on the wall. Press the desired story button and wait for the doors to shut. During ascent (or descent) you may feel a slight dizziness. This is a completely normal human vestibular system response to the acceleration. The elevator may come in a very exotic experience to your body at first, so give it some time to adjust.
 
@@ -91,10 +91,12 @@ During the travel the elevator may stop to pick up more passengers. Pay attentio
 Stop & change story
 ^^^^^^^^^^^^^^^^^^^
 
-Press the Stop button to stop and exit the elevator. The elevator will always stop on the nearest story and open the doors. You do not have to exit the elevator at this point if you are willing to go to another story. Press the desired story button and the elevator will take you there.
+To stop and exit the elevator, press the ``Stop`` button on the control panel. The elevator will always stop on the nearest story and open the doors. 
+
+If you are willing to travel to another story, you do not have to exit the elevator at this point. Press the desired story button and the elevator will take you there.
 
 Exit
 ^^^^
 
-You will again hear a bell upon arrival. Look at the display to make sure you have arrived on the correct story. Wait for the doors to open and exit the elevator. Again, do not worry you will not have enough time to step out. The elevator will simply halt and wait for you actions if your exit takes too long.
+You will again hear a bell upon arrival. Look at the display to make sure you have arrived on the right story. Wait for the doors to open and exit the elevator. Again, do not worry you will not have enough time to step out. The elevator will simply halt and wait for you actions if your exit takes too long.
 
