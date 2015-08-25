@@ -9,7 +9,7 @@ A pseudo user guide for a basic elevator
 What is this?
 ----------------------
 
-This is a user guide sample that I did for a job interview at Kaspersky Lab in Moscow.
+This is a user guide sample that I did for a job interview at a software company.
 
 The task was to write a simple and jolly user guide for a common modern elevator, as if it was just invented and no one knows how to use it. I barely used any technical references (maybe some vocabulary) to keep the guide genuine and to preserve some artistic tone over it. 
 
