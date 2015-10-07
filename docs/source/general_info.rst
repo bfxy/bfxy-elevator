@@ -11,7 +11,7 @@ An elevator is the most efficient way of transportation within the building. Ele
 Design and function
 -------------------
 
-A modern elevator is a complicated mechanism however based on the simple physical principle. The design of a modern elevator includes:
+Modern elevator is a complicated mechanism however based on the simple physical principle. The design of a modern elevator includes:
 
 * Passenger carriage
 * Electric motor
@@ -34,7 +34,7 @@ An electric motor is usually installed at the very top of a shaft. A carriage is
 Control system and automation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Any modern elevator operation is controlled by an automatic electronic control system. The control system provides several functions:
+Any modern elevator's operation is controlled by an automatic electronic control system. The control system provides several functions:
 
 * carries passengers to a specified story
 * opens and closes doors 

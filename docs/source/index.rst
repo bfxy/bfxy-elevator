@@ -2,11 +2,11 @@
    sphinx-quickstart on Wed Aug 12 12:42:48 2015.
 
 
-A pseudo user guide for a basic elevator
+Pseudo user guide for basic elevator
 ########################################
 
 
-What is this?
+What is this
 ----------------------
 
 This is a user guide sample that I did for a job interview at a software company.
@@ -15,10 +15,10 @@ The task was to write a simple and jolly user guide for a common modern elevator
 
 All of the information in the guide is fully based on personal experience with elevators, so it definitely should not be considered a legitimate reference, and hence must not be relied on in a real-life situation.
 
-Why is this here?
+Why is this here
 -----------------
 
-I wanted to try out Sphinx and this seemed to be a good excersice. Also I like the result and wish to share it just for fun or whatever you may find it useful for.
+I wanted to try out Sphinx and this seemed to be a good excersice. Also I like the result and I wish to share it just for fun.
 
 Enjoy.
 
