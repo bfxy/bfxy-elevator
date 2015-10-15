@@ -33,7 +33,7 @@ Follow the required procedure to call help and patiently await the assistance.
 Evacuation
 ^^^^^^^^^^
 
-Do not attempt to exit the carriage or climb inside a shaft at any costs. The carriage is the safest place to stay at any moment. Wait for the evacuation team to arrive. The assisted evacuation is only performed by qualified public-safety professionals who will pull you out safe and sound. Be open to communicate with the evacuation team as your actions may be also required.
+Do not attempt to exit the carriage or climb inside a shaft. The carriage is the safest place to stay at any moment. Wait for the evacuation team to arrive. The assisted evacuation is only performed by qualified public-safety professionals who will pull you out safe and sound. Be open to communicate with the evacuation team as your actions may be also required.
 
 Remember, patience is a virtue.
 
